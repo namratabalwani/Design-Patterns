@@ -1,0 +1,3 @@
+Since , here we can see client has to handle the vehicletype , and accordingly make the correct objects of a car or a bike. 
+To avoid that we make Factories to create different objects , so that client does not have to handle all this and whenever any 
+requests come or any new type is added client does not have to be changed to accumulate the changes.
